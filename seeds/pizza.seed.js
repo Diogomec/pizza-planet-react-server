@@ -19,7 +19,7 @@ const pizzasToSeed = [
       { name: "Galaxy - (Large)", price: 12.99 }
     ],
     description: "Features a classic combination of tomato sauce topped with melted mozzarella cheese and fresh basil. It offers a simple yet flavorful experience.",
-    imageUrl: "images/pizzas/margheritta.jpg"
+    imageUrl: "https://res.cloudinary.com/dghhwit03/image/upload/v1697124342/Pizza%20Planet%20React/margheritta_favuez.jpg"
   },
   {
     name: "Pepperoni Saturn",
@@ -31,7 +31,7 @@ const pizzasToSeed = [
       { name: "Galaxy - (Large)", price: 12.99 }
     ],
     description: "Pepperoni Saturn is a delicious pizza with tangy tomato sauce, a generous layer of gooey mozzarella cheese, and savory pepperoni slices. It's a crowd favorite for pepperoni lovers.",
-    imageUrl: "images/pizzas/pepperonni.jpg"
+    imageUrl: "https://res.cloudinary.com/dghhwit03/image/upload/v1697124341/Pizza%20Planet%20React/pepperonni_gfwwwp.jpg"
   },
   {
     name: "Hawaiian Earth",
@@ -43,7 +43,7 @@ const pizzasToSeed = [
       { name: "Galaxy - (Large)", price: 13.99 }
     ],
     description: "Hawaiian Earth combines the sweetness of pineapple with savory ham on a bed of tomato sauce and melted mozzarella cheese. It's a tropical twist on a classic pizza.",
-    imageUrl: "images/pizzas/hawaiian.jpg"
+    imageUrl: "https://res.cloudinary.com/dghhwit03/image/upload/v1697124342/Pizza%20Planet%20React/hawaiian_o9dfgq.jpg"
   },
   {
     name: "Mozzarella Uranus",
@@ -55,7 +55,7 @@ const pizzasToSeed = [
       { name: "Galaxy - (Large)", price: 11.99 }
     ],
     description: "Mozzarella Uranus showcases the star ingredient itself: melted mozzarella cheese. With a flavorful tomato sauce base, it's a cheese lover's dream come true.",
-    imageUrl: "images/pizzas/mozzarella.jpg"
+    imageUrl: "https://res.cloudinary.com/dghhwit03/image/upload/v1697124341/Pizza%20Planet%20React/mozzarella_gww8bj.jpg"
   },
   {
     name: "Napolitan Neptune",
@@ -67,7 +67,7 @@ const pizzasToSeed = [
       { name: "Galaxy - (Large)", price: 14.99 }
     ],
     description: "Napolitan Neptune offers a medley of flavors with tomato sauce, melted mozzarella cheese, zesty pepperoni, savory sausage, colorful bell peppers, onions, and olives. It's a hearty and satisfying choice.",
-    imageUrl: "images/pizzas/napolitan.jpg"
+    imageUrl: "https://res.cloudinary.com/dghhwit03/image/upload/v1697124341/Pizza%20Planet%20React/napolitan_nn1jfx.jpg"
   },
   {
     name: "Moon Cheese",
@@ -79,7 +79,7 @@ const pizzasToSeed = [
       { name: "Galaxy - (Large)", price: 13.99 }
     ],
     description: "Moon Cheese is a cheesy delight featuring a blend of mozzarella, cheddar, Parmesan, and Gorgonzola cheeses. The tomato sauce base enhances the richness and complexity of flavors.",
-    imageUrl: "images/pizzas/4-cheese.jpg"
+    imageUrl: "https://res.cloudinary.com/dghhwit03/image/upload/v1697124341/Pizza%20Planet%20React/4-cheese_bxbdoy.jpg"
   },
   {
     name: "Romeo and Jupiter",
@@ -91,7 +91,7 @@ const pizzasToSeed = [
       { name: "Galaxy - (Large)", price: 8.99 }
     ],
     description: "Romeo and Jupiter is a sweet treat with a twist. It swaps the traditional tomato sauce for Nutella, and it's topped with sliced strawberries, bananas, and luscious whipped cream. Perfect for dessert lovers!",
-    imageUrl: "images/pizzas/romeo-juliette.jpg"
+    imageUrl: "https://res.cloudinary.com/dghhwit03/image/upload/v1697124342/Pizza%20Planet%20React/romeo-juliette_qrxudz.jpg"
   },
   {
     name: "Veggie Venus",
@@ -103,7 +103,7 @@ const pizzasToSeed = [
       { name: "Galaxy - (Large)", price: 12.99 }
     ],
     description: "Veggie Venus is a vegetarian delight featuring tomato sauce, vegan cheese, colorful bell peppers, onions, earthy mushrooms, and tangy olives. It's a flavorful and satisfying choice for veggie enthusiasts.",
-    imageUrl: "images/pizzas/veggie.jpg"
+    imageUrl: "https://res.cloudinary.com/dghhwit03/image/upload/v1697124341/Pizza%20Planet%20React/veggie_xkbs0k.jpg"
   },
   {
     name: "Mercury Bites",
@@ -115,7 +115,7 @@ const pizzasToSeed = [
       { name: "Galaxy - (Large)", price: 6.99 }
     ],
     description: "Mercury Bites is a playful pizza with tomato sauce, melted mozzarella cheese, mini sausages, and smiley face-shaped pepperoni. It's a fun and delicious option for kids and the young at heart.",
-    imageUrl: "images/pizzas/cheesy-bites.jpg"
+    imageUrl: "https://res.cloudinary.com/dghhwit03/image/upload/v1697124342/Pizza%20Planet%20React/cheesy-bites_akmsv9.jpg"
   }
 ];
 
